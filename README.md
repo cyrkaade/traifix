@@ -3,7 +3,7 @@
 
   <h1 align="center">Traifix</h1>
 <p align="center">
-  <img src="Images\logo.png">
+  <img src="UI\logo.png">
 </p>
 
   <p align="center">
